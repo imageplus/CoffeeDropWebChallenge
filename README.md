@@ -14,7 +14,9 @@ In addition to the app, they have commissioned a responsive single page website 
 
 1.1.1 The design files should be converted as accurately as possible
 
-1.2 The website shall incorporate the assets included in this Git repository
+1.2 The website shall incorporate the content on the designs or in the repository
+
+1.2.1 The developer should use any images he/she likes found on any sites on the internet - as this is a programming challenge only there is no need to worry about copywrite (as the site will never be published)
 
 1.3 The developer shall take as little or as long time as the applicant desires to develop the site
 
@@ -54,4 +56,5 @@ In addition to the app, they have commissioned a responsive single page website 
  
  ## Submission Instructions
   - Please email your contact at Image+ with a link to a github repository containing your submission, as well as be prepared to discuss the technical apsects of the challenge at your interview.
+  - Uploading the site for us to view on some hosting would be appreciated but not required as long as all the assets required for us to test the site locally are required
 
