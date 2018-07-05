@@ -1,5 +1,5 @@
 # Coffee Drop Web Challenge
-This task requires you to build a responsive website which will be tested on a variety of devices with different screen sizes, and a variety of browsers. 
+This task requires you to build a responsive website which will be tested on a variety of devices with different screen sizes, and a variety of browsers. The site should be built from the designs included in this github repository
  
 ## Brief
 A brand new start up, CoffeeDrop, have spotted a gap in the market to build an Android and IOS mobile app which shows their existing 16 national coffee shops, listing them as "locations" for recycling Nespresso coffee pods, for which the client will recieve "cashback" - money for each pod.
