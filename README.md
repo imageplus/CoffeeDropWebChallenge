@@ -1,5 +1,5 @@
 # Coffee Drop Web Challenge
-This task requires you to build a responsive website which will be tested on a variety of devices with different screen sizes, and a variety of browsers. The site should be built from the designs included in this github repository
+This task requires you to build a responsive website which will be tested on a variety of devices with different screen sizes, and a variety of browsers. The site should be built from the designs included in this github repository.
  
 ## Brief
 A brand new start up, CoffeeDrop, have spotted a gap in the market to build an Android and IOS mobile app which shows their existing 16 national coffee shops, listing them as "locations" for recycling Nespresso coffee pods, for which the client will recieve "cashback" - money for each pod.
@@ -8,7 +8,10 @@ In addition to the app, they have commissioned a responsive single page website 
 
 
 ### Specification 
-0.1 The specification shall be used as follows - Shall requirements are core functionality, Should are desired functionality and Could is optional functionality.
+0.1 Language used in this Requirement Specification.
+   - Shall requirements are core functionality that must be completed
+   - Should requirements are desired functionality 
+   - Could requirements are optional functionality that would be considered as "extra credit".
 
 1.1 The website shall be a single page site
 
@@ -16,20 +19,18 @@ In addition to the app, they have commissioned a responsive single page website 
 
 1.2 The website shall incorporate the content on the designs or in the repository
 
-1.2.1 The developer should use any images he/she likes found on any sites on the internet - as this is a programming challenge only there is no need to worry about copywrite (as the site will never be published)
+1.2.1 The developer could use any images he/she likes found on any sites on the internet - as this is a programming challenge only there is no need to worry about copywrite (as the site will never be published)
 
 1.3 The developer shall take as little or as long time as the applicant desires to develop the site
 
 1.3.1 The developer shall not be expected to spend any more than 4 hours on the project.
-
-1.3.2 The developer could spend as long as he/she liked however.
 
 1.4 The developer should use Bootstrap 4, Sass and either jQuery or Vue.js.
 
 1.5 The developer could use Wordpress to allow content to be updated.
 
 
-2.1 The website will be fully responsive
+2.1 The website shall be fully responsive and tested on a number of mobile and desktop devices
 
 2.2 The website shall allow users to view a map with the CoffeeDrop locations marked upon it
 
@@ -40,8 +41,8 @@ In addition to the app, they have commissioned a responsive single page website 
 2.2.3 The map could take into account any additional information returned by the API call (but this is optional)
  
 ## What we are looking for
- - Completion of an website that fulfills the specification
- - Use of best practices for the appropriate programming language (Html, Sass, Wordpress, JQuery, Vue)
+ - Completion of a website that fulfills the specification
+ - Use of best practices for the appropriate programming language (Html, Sass, Wordpress, Vue, JQuery)
  - Appropriate consumption and error handling of provided API
  - Attractive styling matching the designs provided accurately
  - Clean, well-commented code 
@@ -56,5 +57,4 @@ In addition to the app, they have commissioned a responsive single page website 
  
  ## Submission Instructions
   - Please email your contact at Image+ with a link to a github repository containing your submission, as well as be prepared to discuss the technical apsects of the challenge at your interview.
-  - Uploading the site for us to view on some hosting would be appreciated but not required as long as all the assets required for us to test the site locally are required
-
+  - Uploading the site for us to view on some hosting would be appreciated but not required as long as all the assets required for us to test the site locally are included
