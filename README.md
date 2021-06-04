@@ -19,7 +19,7 @@ In addition to the app, they have commissioned a responsive single page website 
 
 1.2 The website shall incorporate the content on the designs or in the repository
 
-1.2.1 The developer could use any images he/she likes found on any sites on the internet - as this is a programming challenge only there is no need to worry about copywrite (as the site will never be published)
+1.2.1 The developer could use any images he/she likes found on any sites on the internet - as this is a programming challenge only there is no need to worry about copyright (as the site will never be published)
 
 1.3 The developer shall take as little or as long time as the applicant desires to develop the site
 
