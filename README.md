@@ -25,7 +25,7 @@ In addition to the app, they have commissioned a responsive single page website 
 
 1.3.1 The developer shall not be expected to spend any more than 4 hours on the project.
 
-1.4 The developer should use Bootstrap 4, Sass and either jQuery or Vue.js.
+1.4 The developer should use Bootstrap 4/5 or Tailwind and either jQuery or Vue.js.
 
 1.5 The developer could use Wordpress to allow content to be updated.
 
